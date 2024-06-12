@@ -1,2 +1,2 @@
-# Price-Tiers-Project
-My first project on GitHub
+# Price Tier Project
+Choose your tier
